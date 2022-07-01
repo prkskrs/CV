@@ -1,0 +1,17 @@
+<!DOCTYPE html>   <!-- tells version of html we are using-->
+<html lang="en">   <!-- tells below codes are about html-->
+<head>  <!-- belowcode takes head of website -->
+    <meta charset="UTF-8"> <!-- tells all text inside this website is code under utf-8 encoding -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- the meta tags tell how to render website or meta data when render a website -->
+    <title>♥ Praåkash's Personal Site</title>
+</head>
+<body>
+    <h1>sad</h1>
+</body>
+</html>  
+
+
+hypertext -> one link to another
+markup-> xml etc
